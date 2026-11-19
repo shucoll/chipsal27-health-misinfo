@@ -90,7 +90,7 @@ Phase times are in UTC: the Development phase closes on Jan 3, 2027 at 23:59 and
 * Surendrabikram Thapa (Virginia Tech, USA)
 * Shuvam Shiwakoti (Virginia Tech, USA)
 * Siddhant Bikram Shah (Northeastern University, USA)
-* Kritesh Rauniyar (Delhi Technological University, India)
+* Kritesh Rauniyar (Macquarie University, Australia)
 * Surabhi Adhikari (Columbia University, USA)
 * Kristina T. Johnson (Northeastern University, USA)
 * Kengatharaiyer Sarveswaran (University of Jaffna, Sri Lanka)
