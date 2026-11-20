@@ -78,10 +78,10 @@ The registration fee is not required for publication of accepted shared-task pap
 
 * Start of the competition (Development phase starts; train and eval data released): Nov 20, 2026
 * Test phase starts (test data released): Jan 4, 2027
-* Test phase ends: Feb 24, 2027
-* Shared task paper submission deadline: Feb 28, 2027
-* Notification of acceptance: March 31, 2027
-* Camera-ready papers due: April 4, 2027
+* Test phase ends: Feb 10, 2027
+* Shared task paper submission deadline: Feb 20, 2027
+* Notification of acceptance: March 20, 2027
+* Camera-ready papers due: March 25, 2027
 
 Phase times are in UTC: the Development phase closes on Jan 3, 2027 at 23:59 and the Test phase on Feb 24, 2027 at 23:59.
 
